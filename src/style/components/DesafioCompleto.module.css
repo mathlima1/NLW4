@@ -1,0 +1,15 @@
+.desafioCompletoWrap{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 3.5rem 0;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #d7d8da;
+    font-weight: 500;
+}
+.desafioCompletoWrap span:first-child{
+    font-size: 1.25rem;
+}
+.desafioCompletoWrap span:last-child{
+    font-size: 1.25rem;
+}
